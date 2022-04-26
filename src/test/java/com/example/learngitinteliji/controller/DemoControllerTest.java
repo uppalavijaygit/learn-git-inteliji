@@ -9,7 +9,13 @@ class DemoControllerTest {
         //ADDED COMMENT 3
         System.out.print("Hello");
 
+
         //COMMENT 4
+
+        // COMMENT 5
+
+        // COMMENT 6
+
 
     }
 
